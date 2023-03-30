@@ -593,7 +593,7 @@ only screen and (        min-device-pixel-ratio: 2)      and (min-width: 320px),
 only screen and (                min-resolution: 192dpi) and (min-width: 320px),
 only screen and (                min-resolution: 2dppx)  and (min-width: 320px) { 
 	.rsHomePorthole .rsCLink {
-		background: url("/web/20171002182630im_/http_/estrellasdebetta.com/wp-content/themes/dt-the7/royalslider/link-retina.png") no-repeat center center;
+		background: url("/web/20171002182630im_/http://estrellasdebetta.com/wp-content/themes/dt-the7/royalslider/link-retina.png") no-repeat center center;
 		background-size: 100% 100%;
 	}
 }*/
