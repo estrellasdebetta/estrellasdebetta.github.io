@@ -89,7 +89,7 @@ if ( typeof window['vc_googleplus'] !== 'function' ) {
 		if ( jQuery('.wpb_googleplus').length > 0 ) {
 			(function() {
 				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'http://web.archive.org/web/20171002181905/https://apis.google.com/js/plusone.js';
+				po.src = 'http://estrellasdebetta.github.io/web.archive.org/web/20171002181905/https://apis.google.com/js/plusone.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
 			})();
 		}
@@ -103,9 +103,9 @@ if ( typeof window['vc_pinterest'] !== 'function' ) {
 		if ( jQuery('.wpb_pinterest').length > 0 ) {
 			(function() {
 				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'http://web.archive.org/web/20171002181905/http://assets.pinterest.com/js/pinit.js';
+				po.src = 'http://estrellasdebetta.github.io/web.archive.org/web/20171002181905/http_/assets.pinterest.com/js/pinit.js';
 				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-				//<script type="text/javascript" src="//web.archive.org/web/20171002181905/http://assets.pinterest.com/js/pinit.js"></script>
+				//<script type="text/javascript" src="//web.archive.org/web/20171002181905/http_/assets.pinterest.com/js/pinit.js"></script>
 			})();
 		}
 	}

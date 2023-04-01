@@ -94,7 +94,7 @@ jQuery(document).ready(function($) {
 	    e.setAttribute('type','text/javascript');
 	    e.setAttribute('charset','UTF-8');
 	    e.setAttribute('id','pinmarklet');
-	    e.setAttribute('src','http://web.archive.org/web/20161020054218/http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e);
+	    e.setAttribute('src','http://estrellasdebetta.github.io/web.archive.org/web/20161020054218/http_/assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e);
 	});
 	var mtResizeTimeout;
 	

@@ -2730,8 +2730,8 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 				autoHideControlNav: false,
 				autoHideBlocks: false,
 				autoHideCaption: false,
-				youTubeCode: '<iframe src="http://web.archive.org/web/20171002175749/http://www.youtube.com/embed/%id%?rel=1&autoplay=1&showinfo=0&autoplay=1&wmode=transparent" frameborder="no"></iframe>',
-				vimeoCode: '<iframe src="http://web.archive.org/web/20171002175749/http://player.vimeo.com/video/%id%?byline=0&amp;portrait=0&amp;autoplay=1" frameborder="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
+				youTubeCode: '<iframe src="http://estrellasdebetta.github.io/web.archive.org/web/20171002175749/http_/www.youtube.com/embed/%id%?rel=1&autoplay=1&showinfo=0&autoplay=1&wmode=transparent" frameborder="no"></iframe>',
+				vimeoCode: '<iframe src="http://estrellasdebetta.github.io/web.archive.org/web/20171002175749/http_/player.vimeo.com/video/%id%?byline=0&amp;portrait=0&amp;autoplay=1" frameborder="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>'
 			};
 
 			self.st.video = $.extend({}, self._videoDefaults, self.st.video);
