@@ -1,0 +1,54 @@
+
+.tp_recent_tweets {
+	/*
+	float: left;
+	clear: left;
+	*/
+}
+
+.tp_recent_tweets  li {
+	background-image: url('../../../../../../20190205002311im_/http_/estrellasdebetta.com/wp-content/plugins/recent-tweets-widget/assets/tweet.png');
+	background-repeat: no-repeat;	
+	background-position: 0px 4px;
+	padding-left: 30px;
+	padding-bottom: 20px;
+	/*
+	float: left;
+	clear: left;
+	*/
+	line-height: 20px;
+	list-style-type: none;
+}
+
+.tp_recent_tweets  li a {
+	font-weight: bold;	
+}
+
+.tp_recent_tweets .twitter_time {
+	display:block;
+	color: #999;
+	font-size: 12px;
+	font-style: italic;	
+	font-weight: normal;
+}
+
+/*
+     FILE ARCHIVED ON 23:06:38 Jan 18, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:42:24 Apr 01, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 70.486
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.059
+  RedisCDXSource: 0.612
+  esindex: 0.007
+  LoadShardBlock: 50.506 (3)
+  PetaboxLoader3.datanode: 102.824 (4)
+  load_resource: 102.783
+  PetaboxLoader3.resolve: 35.895
+*/
