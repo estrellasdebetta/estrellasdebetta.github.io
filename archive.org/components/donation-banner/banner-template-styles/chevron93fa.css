@@ -43,23 +43,23 @@
 #donate_banner .snowflake__inner_type_0:before,
 #donate_banner .snowflake__inner_type_2:before,
 #donate_banner .snowflake__inner_type_4:before {
-  background-image: url('http://archive.org/components/donation-banner/images/thank-you-banner/snowflakes/snowflake-filled.svg');
+  background-image: url('https://archive.org/components/donation-banner/images/thank-you-banner/snowflakes/snowflake-filled.svg');
 }
 
 #donate_banner .snowflake__inner_type_1:before,
 #donate_banner .snowflake__inner_type_3:before,
 #donate_banner .snowflake__inner_type_5:before {
-  background-image: url('http://archive.org/components/donation-banner/images/thank-you-banner/snowflakes/snowflake-open.svg');
+  background-image: url('https://archive.org/components/donation-banner/images/thank-you-banner/snowflakes/snowflake-open.svg');
 }
 
 #donate_banner.template-chevron.background-winter #donate-body-background-layer1 {
-  background-image: url('http://archive.org/components/donation-banner/images/thank-you-banner/ground-trees-tile.svg');
+  background-image: url('https://archive.org/components/donation-banner/images/thank-you-banner/ground-trees-tile.svg');
   background-repeat: repeat-x;
   background-position: 0 100%;
 }
 
 #donate_banner.template-chevron.background-winter #donate-body-background-layer2 {
-  background-image: url('http://archive.org/components/donation-banner/images/thank-you-banner/snowfall-tile.svg');
+  background-image: url('https://archive.org/components/donation-banner/images/thank-you-banner/snowfall-tile.svg');
 }
 
 #donate_banner.template-chevron .main-content {

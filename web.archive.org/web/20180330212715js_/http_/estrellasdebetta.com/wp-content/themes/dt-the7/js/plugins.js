@@ -13,10 +13,10 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
  /* Isotope v1.5.25
  * An exquisite jQuery plugin for magical layouts
- * http://isotope.metafizzy.co
+ * https://isotope.metafizzy.co
  *
  * Commercial use requires one-time license fee
- * http://metafizzy.co/#licenses
+ * https://metafizzy.co/#licenses
  *
  * Copyright 2012 David DeSandro / Metafizzy
  */
@@ -424,7 +424,7 @@ jQuery(document).ready(function($){
 		 * Viscous fluid with a ssc_pulse for part and decay for the rest.
 		 * - Applies a fixed force over an interval (a damped acceleration), and
 		 * - Lets the exponential bleed away the velocity over a longer interval
-		 * - Michael Herf, http://stereopsis.com/stopping/
+		 * - Michael Herf, https://stereopsis.com/stopping/
 		 */
 		function ssc_pulse_(x) {
 		    var val, start, expx;
@@ -467,12 +467,12 @@ Plugin: jQuery Parallax
 Version 1.1.3
 Author: Ian Lunn
 Twitter: @IanLunn
-Author URL: http://www.ianlunn.co.uk/
-Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
+Author URL: https://www.ianlunn.co.uk/
+Plugin URL: https://www.ianlunn.co.uk/plugins/jquery-parallax/
 
 Dual licensed under the MIT and GPL licenses:
-http://www.opensource.org/licenses/mit-license.php
-http://www.gnu.org/licenses/gpl.html
+https://www.opensource.org/licenses/mit-license.php
+https://www.gnu.org/licenses/gpl.html
 */
 
 jQuery(document).ready(function($) {
@@ -535,7 +535,7 @@ jQuery(document).ready(function($) {
 });
 
 /*
- * jQuery Easing v1.3 - http://gsgd.co.uk/sandbox/jquery/easing/
+ * jQuery Easing v1.3 - https://gsgd.co.uk/sandbox/jquery/easing/
  *
  * Uses the built in easing capabilities added In jQuery 1.1
  * to offer multiple easing options
@@ -711,13 +711,13 @@ if (typeof(jQuery.easing['jswing']) == "undefined") {
 }
 /**
  * jquery.dlmenu.js v1.0.0
- * http://www.codrops.com
+ * https://www.codrops.com
  *
  * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
+ * https://www.opensource.org/licenses/mit-license.php
  * 
  * Copyright 2013, Codrops
- * http://www.codrops.com
+ * https://www.codrops.com
  */
 ;( function( $, window, undefined ) {
 
@@ -3345,10 +3345,10 @@ jQuery(document).ready(function($) {
  * Copyright (c) 2008-2009 Mika Tuupola
  *
  * Licensed under the MIT license:
- *   http://www.opensource.org/licenses/mit-license.php
+ *   https://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
- *  http://www.appelsiini.net/projects/viewport
+ *  https://www.appelsiini.net/projects/viewport
  *
  */
 /*
@@ -3357,21 +3357,21 @@ jQuery(document).ready(function($) {
  * Copyright (c) 2008-2009 Mika Tuupola
  *
  * Licensed under the MIT license:
- *   http://www.opensource.org/licenses/mit-license.php
+ *   https://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
- *  http://www.appelsiini.net/projects/viewport
+ *  https://www.appelsiini.net/projects/viewport
  *
  */
 (function($){$.belowthefold=function(element,settings){var fold=$(window).height()+$(window).scrollTop();return fold<=$(element).offset().top-settings.threshold;};$.abovethetop=function(element,settings){var top=$(window).scrollTop();return top>=$(element).offset().top+$(element).height()-settings.threshold;};$.rightofscreen=function(element,settings){var fold=$(window).width()+$(window).scrollLeft();return fold<=$(element).offset().left-settings.threshold;};$.leftofscreen=function(element,settings){var left=$(window).scrollLeft();return left>=$(element).offset().left+$(element).width()-settings.threshold;};$.inviewport=function(element,settings){return!$.rightofscreen(element,settings)&&!$.leftofscreen(element,settings)&&!$.belowthefold(element,settings)&&!$.abovethetop(element,settings);};$.extend($.expr[':'],{"below-the-fold":function(a,i,m){return $.belowthefold(a,{threshold:0});},"above-the-top":function(a,i,m){return $.abovethetop(a,{threshold:0});},"left-of-screen":function(a,i,m){return $.leftofscreen(a,{threshold:0});},"right-of-screen":function(a,i,m){return $.rightofscreen(a,{threshold:0});},"in-viewport":function(a,i,m){return $.inviewport(a,{threshold:0});}});})(jQuery);
 
 /*
  * Swiper 1.9.4 - Mobile Touch Slider
- * http://www.idangero.us/sliders/swiper/
+ * https://www.idangero.us/sliders/swiper/
  *
  * Copyright 2012-2013, Vladimir Kharlampidi
  * The iDangero.us
- * http://www.idangero.us/
+ * https://www.idangero.us/
  *
  * Licensed under GPL & MIT
  *
@@ -4947,8 +4947,8 @@ if (window.jQuery||window.Zepto) {
 
 /*
  * Pixastic - JavaScript Image Processing Library
- * Copyright (c) 2008 Jacob Seidelin, jseidelin@nihilogic.dk, http://blog.nihilogic.dk/
- * MIT License [http://www.pixastic.com/lib/license.txt]
+ * Copyright (c) 2008 Jacob Seidelin, jseidelin@nihilogic.dk, https://blog.nihilogic.dk/
+ * MIT License [https://www.pixastic.com/lib/license.txt]
  */
 
 

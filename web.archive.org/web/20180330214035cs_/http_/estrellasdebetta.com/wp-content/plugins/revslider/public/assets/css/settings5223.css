@@ -8,7 +8,7 @@ version:   	5.0.0
 date:      	29/10/15
 author:		themepunch
 email:     	info@themepunch.com
-website:   	http://www.themepunch.com
+website:   	https://www.themepunch.com
 -----------------------------------------------------------------------------*/
 
 
@@ -16,11 +16,11 @@ website:   	http://www.themepunch.com
 .rtl {	direction: rtl;}
 @font-face {
   font-family: 'revicons';
-  src: url('http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888');
-  src: url('http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
-       url('http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888') format('woff'),
-       url('http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888') format('truetype'),
-       url('http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons') format('svg');
+  src: url('https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888');
+  src: url('https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888#iefix') format('embedded-opentype'),
+       url('https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888') format('woff'),
+       url('https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888') format('truetype'),
+       url('https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888#revicons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -212,10 +212,10 @@ website:   	http://www.themepunch.com
 	
 /* CAROUSEL FUNCTIONS */
 .tp-carousel-wrapper {
-	cursor:url(http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
+	cursor:url(https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/css/openhand.cur), move;
 }
 .tp-carousel-wrapper.dragged {
-	cursor:url(http://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
+	cursor:url(https://estrellasdebetta.github.io/web.archive.org/web/20180330214035im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur), move;
 }
 
 /* ADDED FOR SLIDELINK MANAGEMENT */
@@ -501,10 +501,10 @@ img.tp-slider-alternative-image	{
 	-	DOTTED OVERLAYS	-
 *********************************/
 .tp-dottedoverlay						{	background-repeat:repeat;width:100%;height:100%;position:absolute;top:0px;left:0px;z-index:3}
-.tp-dottedoverlay.twoxtwo				{	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526014034im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png)}
-.tp-dottedoverlay.twoxtwowhite			{	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180525203002im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png)}
-.tp-dottedoverlay.threexthree			{	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180525224951im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png)}
-.tp-dottedoverlay.threexthreewhite		{	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526000945im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png)}
+.tp-dottedoverlay.twoxtwo				{	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526014034im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png)}
+.tp-dottedoverlay.twoxtwowhite			{	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180525203002im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png)}
+.tp-dottedoverlay.threexthree			{	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180525224951im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png)}
+.tp-dottedoverlay.threexthreewhite		{	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526000945im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png)}
 
 
 /******************************
@@ -922,8 +922,8 @@ img.tp-slider-alternative-image	{
 
 /*  CAPTION SLIDELINK   **/
 .caption.slidelink a div,
-.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526081745im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
-.tp-caption.slidelink a span{	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526081745im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
+.tp-caption.slidelink a div {	width:3000px; height:1500px;  background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526081745im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
+.tp-caption.slidelink a span{	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526081745im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png) repeat}
 .tp-shape {	width:100%;height:100%;}
 
 
@@ -1005,7 +1005,7 @@ img.tp-slider-alternative-image	{
 	width: 40px;
 	height: 40px;
 	background-color: #fff;
-	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526023847im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/loader.gif) no-repeat center center;
+	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526023847im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/loader.gif) no-repeat center center;
 	box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
 	-webkit-box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.15);
 	margin-top:-20px;
@@ -1036,7 +1036,7 @@ img.tp-slider-alternative-image	{
 
 
 .tp-loader.spinner5 	{	
-	background:url(http://estrellasdebetta.github.io/web.archive.org/web/../../20180526023847im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/loader.gif) no-repeat 10px 10px;
+	background:url(https://estrellasdebetta.github.io/web.archive.org/web/../../20180526023847im_/http_/estrellasdebetta.com/wp-content/plugins/revslider/public/assets/assets/loader.gif) no-repeat 10px 10px;
 	background-color:#fff;
 	margin:-22px -22px;
 	width:44px;height:44px;

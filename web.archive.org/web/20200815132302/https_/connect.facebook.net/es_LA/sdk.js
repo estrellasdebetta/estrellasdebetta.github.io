@@ -21,7 +21,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
  *
  * As with any software that integrates with the Facebook platform, your use of
  * this software is subject to the Facebook Platform Policy
- * [http://developers.facebook.com/policy/]. This copyright notice shall be
+ * [https://developers.facebook.com/policy/]. This copyright notice shall be
  * included in all copies or substantial portions of the software.
  *
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR

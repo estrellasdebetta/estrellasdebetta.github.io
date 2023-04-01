@@ -311,7 +311,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 
 			if (val && ! val.match(/^[a-z][a-z0-9.+-]*:/i)) { // check the scheme part
 				val = val.replace(/^\/+/, '');
-				val = 'http://' + val;
+				val = 'https://' + val;
 			}
 
 			$(this).val(val);

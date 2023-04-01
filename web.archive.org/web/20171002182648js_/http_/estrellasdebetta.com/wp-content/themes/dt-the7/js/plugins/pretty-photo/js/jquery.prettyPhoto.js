@@ -13,7 +13,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 /* ------------------------------------------------------------------------
 	Class: prettyPhoto
 	Use: Lightbox clone for jQuery
-	Author: Stephane Caron (http://www.no-margin-for-errors.com)
+	Author: Stephane Caron (https://www.no-margin-for-errors.com)
 	Version: 3.1.5
 ------------------------------------------------------------------------- */
 (function($) {
@@ -84,14 +84,14 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 							</div>',
 			image_markup: '<img id="fullResImage" src="{path}" />',
 			flash_markup: '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="{width}" height="{height}"><param name="wmode" value="{wmode}" /><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="{path}" /><embed src="{path}" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="{width}" height="{height}" wmode="{wmode}"></embed></object>',
-			quicktime_markup: '<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.apple.com/qtactivex/qtplugin.cab" height="{height}" width="{width}"><param name="src" value="{path}"><param name="autoplay" value="{autoplay}"><param name="type" value="video/quicktime"><embed src="{path}" height="{height}" width="{width}" autoplay="{autoplay}" type="video/quicktime" pluginspage="http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.apple.com/quicktime/download/"></embed></object>',
+			quicktime_markup: '<object classid="clsid:02BF25D5-8C17-4B23-BC80-D3488ABDDC6B" codebase="https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.apple.com/qtactivex/qtplugin.cab" height="{height}" width="{width}"><param name="src" value="{path}"><param name="autoplay" value="{autoplay}"><param name="type" value="video/quicktime"><embed src="{path}" height="{height}" width="{width}" autoplay="{autoplay}" type="video/quicktime" pluginspage="https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.apple.com/quicktime/download/"></embed></object>',
 			iframe_markup: '<iframe src ="{path}" width="{width}" height="{height}" frameborder="no"></iframe>',
 			inline_markup: '<div class="pp_inline">{content}</div>',
 			custom_markup: '',
 			social_tools: {
-				twitter : '<a href="http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/twitter.com/home?status={location_href}%20{share_title}" class="share-button twitter" target="_blank" title="twitter"></a>',
-				facebook : '<a href="http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.facebook.com/sharer.php?u={location_href}&amp;t={share_title}" class="share-button facebook" target="_blank" title="facebook"></a>',
-				google : '<a href="http:////plus.google.com/share?url={location_href}&amp;title={share_title}" class="share-button google" target="_blank" title="google+"></a>',
+				twitter : '<a href="https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/twitter.com/home?status={location_href}%20{share_title}" class="share-button twitter" target="_blank" title="twitter"></a>',
+				facebook : '<a href="https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.facebook.com/sharer.php?u={location_href}&amp;t={share_title}" class="share-button facebook" target="_blank" title="facebook"></a>',
+				google : '<a href="https:////plus.google.com/share?url={location_href}&amp;title={share_title}" class="share-button google" target="_blank" title="google+"></a>',
 				pinterest : '<a href="//web.archive.org/web/20171002182648/http_/pinterest.com/pin/create/button/?url={location_href}&amp;description={share_title}&amp;media={image_src}" class="share-button pinterest" target="_blank" title="pin it"></a>'
 
 			}/*,
@@ -316,7 +316,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 								movie_id = movie_id.substr(0,movie_id.indexOf('&')); // Strip anything after the &
 						}
 
-						movie = 'http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.youtube.com/embed/'+movie_id;
+						movie = 'https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/www.youtube.com/embed/'+movie_id;
 						(getParam('rel',pp_images[set_position])) ? movie+="?rel="+getParam('rel',pp_images[set_position]) : movie+="?rel=1";
 							
 						if(settings.autoplay) movie += "&autoplay=1";
@@ -331,7 +331,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 						var regExp = /http(s?):\/\/(www\.)?vimeo.com\/(\d+)/;
 						var match = movie_id.match(regExp);
 
-						movie = 'http://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/player.vimeo.com/video/'+ match[3] +'?title=0&amp;byline=0&amp;portrait=0';
+						movie = 'https://estrellasdebetta.github.io/web.archive.org/web/20171002182648/http_/player.vimeo.com/video/'+ match[3] +'?title=0&amp;byline=0&amp;portrait=0';
 						// movie = movie_id +'?title=0&amp;byline=0&amp;portrait=0';
 						if(settings.autoplay) movie += "&autoplay=1;";
 				

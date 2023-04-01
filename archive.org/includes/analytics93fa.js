@@ -187,7 +187,7 @@ window.archive_analytics = (function defineArchiveAnalytics() {
      * @return {String} URL to use for tracking call
      */
     generate_tracking_url: function generate_tracking_url(params) {
-      var baseUrl = 'http://estrellasdebetta.github.io/web.archive.org/web/../../analytics.archive.org/0.gif';
+      var baseUrl = 'https://estrellasdebetta.github.io/web.archive.org/web/../../analytics.archive.org/0.gif';
       var keys;
       var outputParams = params;
       var outputParamsArray = [];
